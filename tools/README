@@ -1,0 +1,5 @@
+Scripts and configuration files for complementary tools
+- postgreSQL schema for repository in the case of multiple VM collecting tweets
+- alert script: send an email if a php process has crashed
+- import script for dynamically create queries
+
